@@ -3,7 +3,7 @@ description: Suggest improvements to our documentation
 title: "[Docs]: "
 labels: [Documentation]
 assignees:
-- Nikhil-Nandagopal
+- Hard-Coder05
 body:
 - type: markdown
   attributes:

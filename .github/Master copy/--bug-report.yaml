@@ -3,7 +3,7 @@ description: Create a bug report to help us improve Appsmith
 title: "[Bug]: "
 labels: [Bug, Needs Triaging]
 assignees:
-- Nikhil-Nandagopal
+- Hard-Coder05
 body:
 - type: markdown
   attributes:
