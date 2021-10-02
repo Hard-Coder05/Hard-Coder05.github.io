@@ -2,7 +2,7 @@ name: 🐞 Bug report
 description: Create a bug report to help us improve Milvus
 title: "[Bug]: "
 labels: [kind/bug, needs-triage]
-assignees: ""
+assignees: ' '
 body:
 - type: markdown
   attributes:
