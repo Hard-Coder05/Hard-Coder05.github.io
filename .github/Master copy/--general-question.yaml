@@ -1,15 +1,11 @@
 name: 🤔 General question
-description: Ask a general question about pymilvus
+description: Ask a general question about <repo>
 title: "[QUESTION]: "
 body:
-- type: markdown
-  attributes:
-    value: |
-      Thanks for taking the time to request a feature for pymilvus!
 - type: checkboxes
   attributes:
     label: Is there an existing issue for this?
-    description: Please search to see if an issue related to this feature request already exists.
+    description: Please search to see if an issue related to this already exists.
     options:
     - label: I have searched the existing issues
       required: true

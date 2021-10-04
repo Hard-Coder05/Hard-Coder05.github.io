@@ -1,6 +1,6 @@
 name: 📝 Task
 description: Create a task for the team to work on
-title: "[Task]: "
+title: "[TASK]: "
 labels: [Task]
 body:
 - type: checkboxes

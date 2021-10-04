@@ -1,6 +1,6 @@
 name: 🐞 Bug report
-description: Create a bug report to help us improve Appsmith
-title: "[Bug]: "
+description: Create a bug report to help us improve <repo>
+title: "[BUG]: "
 labels: [Bug, Needs Triaging]
 assignees:
 - Hard-Coder05

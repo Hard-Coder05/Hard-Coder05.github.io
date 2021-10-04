@@ -1,14 +1,11 @@
-name: 🛠️ Feature request
-description: Suggest an idea to improve appsmith
-title: "[Feature]: "
-labels: [Enhancement]
-assignees:
-- Hard-Coder05
+name: 🚀 Feature request
+description: Suggest an idea for <repo>
+title: "[FEATURE]: "
 body:
 - type: markdown
   attributes:
     value: |
-      Thanks for taking the time to request a feature for Appsmith!
+      Thanks for taking the time to request a feature for <repo>!
 - type: checkboxes
   attributes:
     label: Is there an existing issue for this?
@@ -18,19 +15,26 @@ body:
       required: true
 - type: textarea
   attributes:
-    label: Summary
-    description: One paragraph description of the feature.
+    label: Is your feature request related to a problem? Please describe.
+    description: A clear and concise description of what the problem is.
+    placeholder: I wish I could use <repo> to do [...]
   validations:
     required: false
 - type: textarea
   attributes:
-    label: Why should this be worked on? What problems or use cases does it solve or improve?
-    description: A concise description of the problem you are facing or the motivation behind this feature request. 
+    label: Describe the solution you'd like
+    description: A clear and concise description of what you want to happen.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Describe alternatives you've considered
+    description: A clear and concise description of any alternative solutions or features you've considered.
   validations:
     required: false
 - type: textarea
   attributes:
     label: Anything else?
-    description: Any other context or screenshots or API request payload/responses that you pertain to the feature.
+    description: Add any other context, code examples, or references to existing implementations about the feature request here.
   validations:
     required: false

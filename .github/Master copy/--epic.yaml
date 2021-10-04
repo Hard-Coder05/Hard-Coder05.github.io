@@ -1,6 +1,6 @@
 name: 📓 Epic
 description: A large planned scope of work for the quarter
-title: "[Epic]: "
+title: "[EPIC]: "
 labels: [Epic, Product Note]
 assignees:
 - Hard-Coder05
