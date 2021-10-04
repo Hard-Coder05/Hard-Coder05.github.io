@@ -15,13 +15,13 @@ body:
     - label: I have searched the existing issues as well as StackOverflow
       required: true
 - type: checkboxes
-    id: terms_issues
-    attributes:
-      label: Confirm you are submitting a bug report.
-      description: Please confirm you are submitting a bug report and not a usage question. For usage questions, please use [Discussions](#).
-      options:
-        - label: Yes, this is a bug report.
-          required: true
+  id: terms_issues
+  attributes:
+    label: Confirm you are submitting a bug report.
+    description: Please confirm you are submitting a bug report and not a usage question. For usage questions, please use [Discussions](#).
+    options:
+      - label: Yes, this is a bug report.
+        required: true
 - type: textarea
   attributes:
     label: Current Behavior
