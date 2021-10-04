@@ -1,6 +1,7 @@
 name: 🚀 Feature request
 description: Suggest an idea for NativeScript
 title: "[FEATURE]: "
+labels: [Feature] 
 body:
 - type: markdown
   attributes:
