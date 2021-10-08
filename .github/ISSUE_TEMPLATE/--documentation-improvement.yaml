@@ -1,7 +1,9 @@
 name: 📖 Documentation Improvement
 description: Suggest improvements to our documentation
-title: "[DOCS]: "
-labels: [Documentation] 
+title: "[Docs]: "
+labels: [Documentation]
+assignees:
+- Nikhil-Nandagopal
 body:
 - type: markdown
   attributes:
